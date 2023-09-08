@@ -12,5 +12,5 @@ Introduces a new fizzler that also removes your Portal Gun when you pass through
 
 A simple puzzle involving flinging.
 
-![Thumbnail]("/HighJump/thumbnail.jpg")
+![Thumbnail](/HighJump/thumbnail.jpg)
 
